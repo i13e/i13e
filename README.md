@@ -25,7 +25,7 @@ Here are some of my top projects:
 - [timeshift-autosnap-wrapper](https://github.com/i13e/timeshift-autosnap-wrapper) - Take only one snapshot per system update.
 - [cfg](https://github.com/i13e/cfg) - Config files for my Linux workspace, managed using git --bare.
 
-I'm currently working on learning DevOps through configuring [NixOS](nixos.org)
+I'm currently working on learning DevOps through configuring [NixOS](nixos.org).
 
 #### Get in Touch
 

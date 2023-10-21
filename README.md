@@ -2,7 +2,7 @@
 
 I'm a software developer with experience in Python, Typescript, React, and NodeJS. I'm passionate about writing high-quality, maintainable code and learning new technologies.
 
-Outside of programming, I enjoy hiking, reading, and playing chess.
+Outside of programming, I enjoy exploring scenic trails in Prospect Park, playing speed chess, and savoring the art of crafting authentic Italian cuisine.
 
 #### Skills
 

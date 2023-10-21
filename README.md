@@ -6,10 +6,10 @@ Outside of programming, I enjoy exploring scenic trails in Prospect Park, playin
 
 #### Skills
 
-* **Languages**: Python, JavaScript, C++, Rust, Bash
-* **Frameworks/Libraries**: React, Node.js, Numpy, Pandas
-* **Databases**: MySQL, MongoDB, PostgreSQL
-* **Tools**: Git, Docker, AWS
+* **Languages:** Python, TypeScript/JavaScript, Bash, Nix, Rust
+* **Frameworks/Libraries:** React, Node.js, NumPy, Pandas, Matplotlib
+* **Databases:** PostgreSQL, MySQL, MongoDB
+* **Tools:** Linux, Git, Docker, GCP, AWS, Azure, GitHub Actions
 
 #### Projects
 

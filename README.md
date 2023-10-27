@@ -1,6 +1,6 @@
 ### Hello There! I'm Ian
 
-I'm a software developer with experience in Python, TypeScript, React, and NodeJS. I'm passionate about writing high-quality,
+I'm a software developer with 3 years of industry experience. I'm passionate about writing high-quality,
 maintainable code and learning new technologies. Outside of programming, I enjoy exploring scenic trails in Prospect Park,
 playing speed chess, listening to *Nurture* by Porter Robinson for the hundredth time, and crafting authentic Italian cuisine.
 

@@ -15,15 +15,15 @@ playing speed chess, listening to *Nurture* by Porter Robinson, and crafting aut
 
 Here are some of my top projects:
 
-- [Osmanthus](https://github.com/i13e/osmanthus) - An algorithmic chess engine, written in Python.
-- [Euler](https://github.com/i13e/euler) - An all-in-one Python tool for solving Project Euler challenges.
-- [Robinson](https://github.com/i13e/robinson) - Extract data from the Spotify API and store it in a database.
+- [Osmanthus](https://github.com/i13e/osmanthus): An algorithmic chess engine, written in Python.
+- [Euler](https://github.com/i13e/euler): An all-in-one Python tool for solving Project Euler challenges.
+- [Robinson](https://github.com/i13e/robinson): Extract data from the Spotify API and store it in a database.
 
 ##### Mini-Projects
 
-- [hostupd](https://github.com/i13e/hostupd) - Update /etc/hosts and append a custom blocklist, written in POSIX sh.
-- [timeshift-autosnap-wrapper](https://github.com/i13e/timeshift-autosnap-wrapper) - Take only one snapshot per system update.
-- [cfg](https://github.com/i13e/cfg) - Config files for my Linux workspace, managed using git --bare.
+- [hostupd](https://github.com/i13e/hostupd): Update /etc/hosts and append a custom blocklist, written in POSIX sh.
+- [timeshift-autosnap-wrapper](https://github.com/i13e/timeshift-autosnap-wrapper): Take only one snapshot per system update.
+- [cfg](https://github.com/i13e/cfg): Config files for my Linux workspace, managed using git --bare.
 
 I'm currently working on learning DevOps through configuring [NixOS](nixos.org).
 

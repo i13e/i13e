@@ -31,6 +31,7 @@ I'm currently working on learning DevOps through configuring [NixOS](nixos.org).
 
 <!--**LinkedIn:** https://linkedin.com/in/ianb-->
 - **Website:** https://i13e.org
+- **Email:** <hello@i13e.org>
 
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!

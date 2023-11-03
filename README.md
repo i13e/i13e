@@ -29,7 +29,7 @@ I'm currently working on learning DevOps through configuring [NixOS](nixos.org).
 
 #### Get in Touch
 
-- **LinkedIn:** https://linkedin.com/in/ianb
+<!--**LinkedIn:** https://linkedin.com/in/ianb-->
 - **Website:** https://i13e.org
 
 

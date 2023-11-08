@@ -18,6 +18,7 @@ Here are some of my top projects:
 - [Osmanthus](https://github.com/i13e/osmanthus): An algorithmic chess engine, written in Python.
 - [Euler](https://github.com/i13e/euler): An all-in-one Python tool for solving Project Euler challenges.
 - [Robinson](https://github.com/i13e/robinson): Extract data from the Spotify API and store it in a database.
+- [picoGPT](https://github.com/i13e/picoGPT): IN DEVELOPMENT
 
 ##### Mini-Projects
 

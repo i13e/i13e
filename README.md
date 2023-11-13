@@ -18,7 +18,7 @@ Here are some of my top projects:
 - [Osmanthus](https://github.com/i13e/osmanthus): An algorithmic chess engine, written in Python.
 - [Euler](https://github.com/i13e/euler): An all-in-one Python tool for solving Project Euler challenges.
 - [Robinson](https://github.com/i13e/robinson): Extract data from the Spotify API and store it in a database.
-- [picoGPT](https://github.com/i13e/picoGPT): In development.
+<!-- - [picoGPT](https://github.com/i13e/picoGPT): In development. -->
 
 ##### Mini-Projects
 
@@ -26,14 +26,13 @@ Here are some of my top projects:
 - [timeshift-autosnap-wrapper](https://github.com/i13e/timeshift-autosnap-wrapper): Take only one snapshot per system update.
 - [cfg](https://github.com/i13e/cfg): Config files for my Linux workspace, managed using `git --bare`.
 
-I'm currently working on learning DevOps through configuring [NixOS](nixos.org).
+I'm currently working on learning on learning about and configuring [NixOS](nixos.org).
 
 #### Get in Touch
 
 <!--**LinkedIn:** https://linkedin.com/in/ianb-->
 - **Website:** https://i13e.org
 - **Email:** <hello@i13e.org>
-
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
 

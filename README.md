@@ -7,9 +7,9 @@ playing speed chess, listening to *Nurture* by Porter Robinson, and cooking auth
 #### Skills
 
 * **Languages:** Python, TypeScript/JavaScript, Bash, Nix, Rust
-* **Frameworks/Libraries:** React, Node.js, NumPy, Pandas, Matplotlib
+* **Frameworks/Libraries:** React, Node.js, FastAPI, NumPy, Pandas
 * **Databases:** PostgreSQL, MySQL, MongoDB
-* **Tools:** Linux, Git, Docker, GCP, AWS, Azure, GitHub Actions
+* **Tools:** Linux, Git, Docker, Github Actions, GCP, AWS, Azure
 
 #### Projects
 
@@ -28,13 +28,9 @@ Here are some of my top projects:
 
 I'm currently working on learning on learning about and configuring [NixOS](nixos.org).
 
-#### Get in Touch
+_______
 
-<!--**LinkedIn:** https://linkedin.com/in/ianb-->
-- **Website:** https://i13e.org
-- **Email:** <hello@i13e.org>
-
-Feel free to reach out if you'd like to collaborate on a project or just want to connect!
+Feel free to <a href="mailto:%68%65%6c%6c%6f%40%69%31%33%65%2e%6f%72%67">reach out</a> if you'd like to connect or collaborate on a project!
 
 <!--
 **i13e/i13e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

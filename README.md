@@ -30,7 +30,7 @@ I'm currently working on learning on learning about and configuring [NixOS](nixo
 
 ___
 
-Feel free to <a href="mailto:email@example.com">email</a> if you'd like to connect or collaborate on a project!
+Feel free to <a href="mailto:hello@i13e.org">reach out</a> if you'd like to connect or collaborate on a project!
 
 <!--
 **i13e/i13e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

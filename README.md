@@ -28,9 +28,9 @@ Here are some of my top projects:
 
 I'm currently working on learning on learning about and configuring [NixOS](nixos.org).
 
-_______
+___
 
-Feel free to <a href="mailto:%68%65%6c%6c%6f%40%69%31%33%65%2e%6f%72%67">reach out</a> if you'd like to connect or collaborate on a project!
+Feel free to <a href="mailto:email@example.com">email</a> if you'd like to connect or collaborate on a project!
 
 <!--
 **i13e/i13e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

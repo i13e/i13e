@@ -1,8 +1,8 @@
 ### Hello There! I'm Ian
 
 I'm a software developer with 3 years of industry experience. I'm passionate about writing high-quality,
-maintainable code and learning new technologies. Outside of programming, I enjoy hiking across the Bay Area,
-playing strategy games like Chess and Magic: The Gathering, listening to *Nurture* by Porter Robinson, and
+maintainable code and learning new technologies. Outside of programming, I enjoy hiking across the Bay Area
+while listening to *Nurture* by Porter Robinson, playing strategy games like Chess and Magic, and
 cooking authentic Italian food.
 
 #### Skills

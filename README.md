@@ -1,9 +1,11 @@
-### Hello There! I'm Ian
+### Hello There!
 
-I'm a software engineer with 3 years of industry experience. I'm passionate about writing high-quality,
-maintainable code and learning new technologies. Outside of programming, I enjoy hiking across the Bay Area
-while listening to *Nurture* by Porter Robinson, playing strategy games like Chess and Magic, and cooking
-authentic Italian food.
+I’m Ian, a backend engineer who loves building tools that make life easier for other developers. I’m passionate about
+clean architecture, developer experience, and creating performant, reliable systems. Most of my work lives behind the
+scenes—but that’s where I think the real magic happens.
+
+When I’m not coding, you’ll find me hiking/biking around the Bay Area with Nurture by Porter Robinson in my ears,
+playing strategy games like chess and Magic, or cooking Italian food.
 
 #### Skills
 
